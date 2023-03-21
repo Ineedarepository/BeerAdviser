@@ -4,6 +4,7 @@ import sys
 
 logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 
+
 # This is an object describing the state of a shower.
 class Shower:
 
